@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="StudentManagement" Class="ScoreClassDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=JUEYING;Initial Catalog=StudentManagement;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="StudentManagementConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Score" Member="Score">
+    <Type Name="Score">
+      <Column Name="Student_Number" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Student_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Student_Class" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Chinese" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Math" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="English" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Physical" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="chemistry" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="organisms" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

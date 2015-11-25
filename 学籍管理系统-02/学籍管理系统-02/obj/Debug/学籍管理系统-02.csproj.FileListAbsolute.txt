@@ -1,0 +1,5 @@
+G:\Work\项目开发\QQ\学籍管理系统-02\学籍管理系统-02\bin\学籍管理系统-02.dll
+G:\Work\项目开发\QQ\学籍管理系统-02\学籍管理系统-02\bin\学籍管理系统-02.pdb
+G:\Work\项目开发\QQ\学籍管理系统-02\学籍管理系统-02\obj\Debug\学籍管理系统-02.dll
+G:\Work\项目开发\QQ\学籍管理系统-02\学籍管理系统-02\obj\Debug\学籍管理系统-02.pdb
+G:\Work\项目开发\QQ\学籍管理系统-02\学籍管理系统-02\obj\Debug\学籍管理系统-02.csprojResolveAssemblyReference.cache
